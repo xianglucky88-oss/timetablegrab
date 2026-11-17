@@ -1,0 +1,34 @@
+[
+  {
+    "id": "r-001",
+    "src": "alpha",
+    "name": " Record One ",
+    "value": 10,
+    "status": "active",
+    "ts": "2026-11-01T00:00:00Z"
+  },
+  {
+    "id": "r-002",
+    "src": "Beta",
+    "name": "Record Two",
+    "value": 20,
+    "status": "active",
+    "ts": "2026-11-02T00:00:00Z"
+  },
+  {
+    "id": "r-003",
+    "src": "alpha",
+    "name": "Record Three",
+    "value": 30,
+    "status": "sold",
+    "ts": "2026-11-03T00:00:00Z"
+  },
+  {
+    "id": "r-003",
+    "src": "alpha",
+    "name": "Record Three",
+    "value": 30,
+    "status": "sold",
+    "ts": "2026-11-03T00:00:00Z"
+  }
+]
