@@ -1,4 +1,4 @@
-"""单一职责：从本地 fixtures 读取原始记录（happy-path 摄取入口，不联网）。"""
+"""单一职责：从本地 fixtures 读取原始记录（离线摄取入口，不联网）。"""
 import json
 from .config import FIXTURES
 

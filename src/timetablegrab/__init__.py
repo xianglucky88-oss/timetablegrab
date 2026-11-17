@@ -1,1 +1,1 @@
-"""timetablegrab baseline (single-responsibility pipeline)."""
+"""timetablegrab package (single-responsibility pipeline)."""
