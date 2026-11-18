@@ -2,6 +2,7 @@
 import json
 from .config import FIXTURES
 
+
 def load():
     with open(FIXTURES, encoding="utf-8") as f:
         return json.load(f)

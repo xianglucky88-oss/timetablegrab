@@ -37,3 +37,6 @@ tokens.*
 *connection_string*
 *connstr*
 .DS_Store
+# 运行时下载/缓存/隔离/数据库（原始依据仅在本地保留）
+var/
+*.db-journal
